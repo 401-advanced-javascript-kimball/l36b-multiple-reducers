@@ -1,24 +1,14 @@
-# l36b-multiple-reducers
+# LAB 36 - multiple-reducers
+
+## Multiple Reducers
+
+### Author: Jonathan Kimball
+
+### Links and Resources
 
 * [submission PR](https://github.com/401-advanced-javascript-kimball/l36b-multiple-reducers/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l36b-multiple-reducers)
-
-# LAB - 
-
-## Project Name
-
-### Author: Student/Group Name
-
-### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
 #### `modulename.js`

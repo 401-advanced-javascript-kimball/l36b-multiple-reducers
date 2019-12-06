@@ -1,7 +1,7 @@
 {
-  "name": "react-app",
+  "name": "starter-code-app-state-reducers",
   "version": "1.0.0",
-  "description": "## Project Name",
+  "description": "",
   "main": "src/index.js",
   "dependencies": {
     "react": "^16.12.0",
@@ -13,7 +13,8 @@
     "superagent": "^5.1.0"
   },
   "devDependencies": {
-    "react-scripts": "3.2.0", // Keep at 3.2.0 until browser launch issue is resolved
+    "typescript": "^3.7.3",
+    "react-scripts": "3.2.0",
     "react-test-renderer": "^16.12.0",
     "babel-eslint": "^10.0.3",
     "node-sass": "^4.13.0",
